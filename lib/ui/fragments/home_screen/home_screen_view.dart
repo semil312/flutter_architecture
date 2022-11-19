@@ -31,14 +31,11 @@ class HomeScreen extends StatelessWidget {
           appBar: AppBar(
             backgroundColor: Colors.transparent,
             elevation: 0,
-            leading: GestureDetector(
-              onTap: () => Scaffold.of(context).openDrawer(),
-              child: Padding(
-                padding: const EdgeInsets.all(15),
-                child: Image.asset(
-                  'icons/menu.png',
-                  color: const Color(0xff5F5B5B),
-                ),
+            leading: Padding(
+              padding: const EdgeInsets.all(15),
+              child: Image.asset(
+                'icons/menu.png',
+                color: const Color(0xff5F5B5B),
               ),
             ),
             title: Text(
