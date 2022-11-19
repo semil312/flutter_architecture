@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1004024736422",
+    "firebase_url": "https://timmins-humane-society-app-default-rtdb.firebaseio.com",
+    "project_id": "timmins-humane-society-app",
+    "storage_bucket": "timmins-humane-society-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004024736422:android:413e3c83840f7cb1a2a267",
+        "android_client_info": {
+          "package_name": "com.example.flutter_architecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004024736422-abcoe5rtasotdfuijlls0k8b4727gj2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwgHW-ZHJyJO7BdMSbHP6hQCAeQFvekX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004024736422-abcoe5rtasotdfuijlls0k8b4727gj2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004024736422:android:7bb8b96bce20c42ea2a267",
+        "android_client_info": {
+          "package_name": "com.example.timmis_humane_society_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004024736422-abcoe5rtasotdfuijlls0k8b4727gj2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwgHW-ZHJyJO7BdMSbHP6hQCAeQFvekX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004024736422-abcoe5rtasotdfuijlls0k8b4727gj2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
